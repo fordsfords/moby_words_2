@@ -6,25 +6,6 @@ See https://en.wikipedia.org/wiki/Moby_Project#Words
 Also see https://www.gutenberg.org/ebooks/3201
 
 
-## License
-
-I want there to be NO barriers to using these files.  But "public domain" does not have an internationally agreed upon definition, so I use CC0:
-
-Copyright 2021 Steven Ford http://geeky-boy.com and licensed
-"public domain" style under
-[CC0](http://creativecommons.org/publicdomain/zero/1.0/): 
-![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png "CC0")
-
-To the extent possible under law, the contributors to this project have
-waived all copyright and related or neighboring rights to this work.
-In other words, you can use this code for any purpose without any
-restrictions.  This work is published from: United States.  The project home
-is https://github.com/fordsfords/moby_words_2
-
-To contact me, Steve Ford, project owner, you can find my email address
-at http://geeky-boy.com.  Can't see it?  Keep looking.
-
-
 ## Introduction
 
 This is a verbatim copy of the Moby Words II ebook from
@@ -112,3 +93,18 @@ and all amendments current to 1993.
 
 NOTE: Accents have been stripped from words, e.g., 'etude' does not
 mark the accent on the initial 'e'.
+
+## License
+
+The original MOBY words content was released to public domain.
+
+I want there to be NO barriers to using my modest modifications.  But "public domain" does not have an internationally agreed upon definition, so I use CC0:
+
+My modifications to this work are dedicated to the public domain under CC0 1.0 Universal:
+http://creativecommons.org/publicdomain/zero/1.0/
+
+To the extent possible under law, Steven Ford has waived all copyright
+and related or neighboring rights to this work. In other words, you can 
+use this code for any purpose without any restrictions.
+This work is published from: United States.
+Project home: https://github.com/fordsfords/moby_words_2
